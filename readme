@@ -1,0 +1,20 @@
+# Random Name Generator
+
+## Description
+This is a Python-based web application that generates a random name from a list for a user. The entered names and generated names are managed to ensure no duplicates.
+
+## Features
+- Accepts a user's name and generates a random name from a predefined list.
+- Ensures names are not duplicated between users.
+- Provides a web interface for easy interaction.
+
+## Technologies Used
+- Python
+- Flask
+- Gunicorn (for production)
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/random-name-generator.git
+
